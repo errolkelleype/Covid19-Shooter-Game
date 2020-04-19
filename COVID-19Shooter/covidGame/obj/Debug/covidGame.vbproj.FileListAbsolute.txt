@@ -1,0 +1,27 @@
+C:\Users\ASUS\Desktop\covidGame\covidGame\bin\Debug\covidGame.exe.config
+C:\Users\ASUS\Desktop\covidGame\covidGame\bin\Debug\covidGame.exe
+C:\Users\ASUS\Desktop\covidGame\covidGame\bin\Debug\covidGame.pdb
+C:\Users\ASUS\Desktop\covidGame\covidGame\bin\Debug\covidGame.xml
+C:\Users\ASUS\Desktop\covidGame\covidGame\obj\Debug\covidGame.vbprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\covidGame\covidGame\obj\Debug\covidGame.frmMain.resources
+C:\Users\ASUS\Desktop\covidGame\covidGame\obj\Debug\covidGame.Resources.resources
+C:\Users\ASUS\Desktop\covidGame\covidGame\obj\Debug\covidGame.vbproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\covidGame\covidGame\obj\Debug\covidGame.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\covidGame\covidGame\obj\Debug\covidGame.exe
+C:\Users\ASUS\Desktop\covidGame\covidGame\obj\Debug\covidGame.xml
+C:\Users\ASUS\Desktop\covidGame\covidGame\obj\Debug\covidGame.pdb
+C:\Users\ASUS\Desktop\covidGame\covidGame\obj\Debug\covidGame.frmWon.resources
+C:\Users\ASUS\Desktop\covidGame\covidGame\obj\Debug\covidGame.frmLost.resources
+C:\Users\ASUS\Desktop\covidGame - Copy\covidGame\bin\Debug\covidGame.exe.config
+C:\Users\ASUS\Desktop\covidGame - Copy\covidGame\bin\Debug\covidGame.exe
+C:\Users\ASUS\Desktop\covidGame - Copy\covidGame\bin\Debug\covidGame.pdb
+C:\Users\ASUS\Desktop\covidGame - Copy\covidGame\bin\Debug\covidGame.xml
+C:\Users\ASUS\Desktop\covidGame - Copy\covidGame\obj\Debug\covidGame.vbprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\covidGame - Copy\covidGame\obj\Debug\covidGame.frmMain.resources
+C:\Users\ASUS\Desktop\covidGame - Copy\covidGame\obj\Debug\covidGame.Resources.resources
+C:\Users\ASUS\Desktop\covidGame - Copy\covidGame\obj\Debug\covidGame.vbproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\covidGame - Copy\covidGame\obj\Debug\covidGame.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\covidGame - Copy\covidGame\obj\Debug\covidGame.exe
+C:\Users\ASUS\Desktop\covidGame - Copy\covidGame\obj\Debug\covidGame.xml
+C:\Users\ASUS\Desktop\covidGame - Copy\covidGame\obj\Debug\covidGame.pdb
+C:\Users\ASUS\Desktop\covidGame - Copy\covidGame\obj\Debug\covidGame.frmGameOver.resources

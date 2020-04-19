@@ -1,0 +1,27 @@
+C:\Users\ASUS\Desktop\covidGame - Copy\covidGame\bin\Debug\covidGame.exe.config
+C:\Users\ASUS\Desktop\covidGame - Copy\covidGame\bin\Debug\covidGame.exe
+C:\Users\ASUS\Desktop\covidGame - Copy\covidGame\bin\Debug\covidGame.pdb
+C:\Users\ASUS\Desktop\covidGame - Copy\covidGame\bin\Debug\covidGame.xml
+C:\Users\ASUS\Desktop\covidGame - Copy\covidGame\obj\Debug\covidGame.frmMain.resources
+C:\Users\ASUS\Desktop\covidGame - Copy\covidGame\obj\Debug\covidGame.frmGameOver.resources
+C:\Users\ASUS\Desktop\covidGame - Copy\covidGame\obj\Debug\covidGame.Resources.resources
+C:\Users\ASUS\Desktop\covidGame - Copy\covidGame\obj\Debug\covid-19Shooter.vbproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\covidGame - Copy\covidGame\obj\Debug\covid-19Shooter.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\covidGame - Copy\covidGame\obj\Debug\covidGame.exe
+C:\Users\ASUS\Desktop\covidGame - Copy\covidGame\obj\Debug\covidGame.xml
+C:\Users\ASUS\Desktop\covidGame - Copy\covidGame\obj\Debug\covidGame.pdb
+C:\Users\ASUS\Desktop\covidGame - Copy\covidGame\obj\Debug\covid-19Shooter.vbprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\COVID-19Shooter\covidGame\bin\Debug\covidGame.exe.config
+C:\Users\ASUS\Desktop\COVID-19Shooter\covidGame\bin\Debug\covidGame.exe
+C:\Users\ASUS\Desktop\COVID-19Shooter\covidGame\bin\Debug\covidGame.pdb
+C:\Users\ASUS\Desktop\COVID-19Shooter\covidGame\bin\Debug\covidGame.xml
+C:\Users\ASUS\Desktop\COVID-19Shooter\covidGame\obj\Debug\covid-19Shooter.vbprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\COVID-19Shooter\covidGame\obj\Debug\covidGame.frmMain.resources
+C:\Users\ASUS\Desktop\COVID-19Shooter\covidGame\obj\Debug\covidGame.frmGameOver.resources
+C:\Users\ASUS\Desktop\COVID-19Shooter\covidGame\obj\Debug\covidGame.Resources.resources
+C:\Users\ASUS\Desktop\COVID-19Shooter\covidGame\obj\Debug\covid-19Shooter.vbproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\COVID-19Shooter\covidGame\obj\Debug\covid-19Shooter.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\COVID-19Shooter\covidGame\obj\Debug\covidGame.exe
+C:\Users\ASUS\Desktop\COVID-19Shooter\covidGame\obj\Debug\covidGame.xml
+C:\Users\ASUS\Desktop\COVID-19Shooter\covidGame\obj\Debug\covidGame.pdb
+C:\Users\ASUS\Desktop\COVID-19Shooter\covidGame\obj\Debug\covidGame.FrmHowtoPlay.resources
